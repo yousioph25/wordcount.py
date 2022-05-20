@@ -1,0 +1,6 @@
+print("Enter var1")
+var1 = input()
+print("Enter var2")
+var2 = input()
+variable = int(var1)+int(var2)
+print("The sum of variables ", variable)
